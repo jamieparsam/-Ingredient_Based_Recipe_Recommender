@@ -1,17 +1,9 @@
 {
   "name": "Recipe Recommender",
-  "image": "mcr.microsoft.com/devcontainers/python:3.11",
-  "features": {
-    "ghcr.io/devcontainers/features/node:1": {},
-    "ghcr.io/itsmechlark/features/postgresql:1": {
-      "version": "14"
-    },
-    "ghcr.io/devcontainers/features/mongo-db:1": {
-      "version": "6.0"
-    }
-  },
+  "image": "mcr.microsoft.com/devcontainers/python:3.11-bullseye",
+  "onCreateCommand": "bash .devcontainer/install.sh",
   "postCreateCommand": "pip install -r requirements.txt",
-  "forwardPorts": [5432, 27017, 8888],
+  "forwardPorts": [5432, 27017],
   "remoteEnv": {
     "PG_HOST": "localhost",
     "PG_PORT": "5432",
