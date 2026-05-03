@@ -3,6 +3,8 @@
   "image": "mcr.microsoft.com/devcontainers/python:3.11-bullseye",
   "postCreateCommand": "bash .devcontainer/install.sh && pip install -r requirements.txt",
   "forwardPorts": [5432, 27017],
+  "containerUser": "root",
+  "remoteUser": "vscode",
   "remoteEnv": {
     "PG_HOST": "localhost",
     "PG_PORT": "5432",
