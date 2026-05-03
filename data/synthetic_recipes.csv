@@ -1,0 +1,211 @@
+recipe_id,name,prep_time_minutes,dietary_category,cuisine_type,description,ingredients,num_ingredients,source
+1,Lentil Soup,25,Vegan,American,"A hearty, warming soup made from pantry staples.","vegetable broth, soy sauce, broccoli, cumin, peanut butter, almond butter, canned tomatoes",7,synthetic
+2,Black Bean Tacos,14,Vegan,Fusion,Quick crispy tacos packed with protein.,"spinach, celery, lemon juice, frozen peas, chickpeas, quinoa",6,synthetic
+3,Chickpea Curry,27,Vegan,American,Creamy coconut chickpea curry over rice.,"mushrooms, kidney beans, blueberries, broccoli, cumin, zucchini, quinoa",7,synthetic
+4,Pasta Primavera,15,Vegan,Mediterranean,Light pasta loaded with fresh vegetables.,"peanut butter, oregano, coconut milk, tomato",4,synthetic
+5,Tofu Stir Fry,24,Vegan,Italian,High-protein tofu stir fried with soy sauce and veggies.,"paprika, lime, salt, basil, black pepper, soy milk, pasta, banana, celery",9,synthetic
+6,Avocado Toast,5,Vegan,Mexican,Quick nutritious toast with sliced avocado.,"broccoli, lemon juice, vegetable broth, black pepper",4,synthetic
+7,Quinoa Bowl,21,Vegan,Mediterranean,Protein-packed quinoa with roasted vegetables.,"cilantro, tomato, lentils, turmeric",4,synthetic
+8,Veggie Fried Rice,19,Vegan,Indian,Classic fried rice made entirely vegan.,"quinoa, black beans, oats, salt, tomato, oregano, banana, almond butter, almond milk, lime",10,synthetic
+9,Peanut Noodles,11,Vegan,Italian,Cold sesame peanut noodles — no cooking required.,"zucchini, olive oil, nutritional yeast, apple",4,synthetic
+10,Sweet Potato Curry,30,Vegan,Fusion,Coconut milk sweet potato curry over rice.,"olive oil, tomato, apple, corn",4,synthetic
+11,Oatmeal Bowl,9,Vegan,Mexican,Hearty oats topped with banana and peanut butter.,"blueberries, sweet potato, frozen peas, mushrooms, quinoa, avocado, thyme, coconut milk",8,synthetic
+12,Mushroom Pasta,20,Vegan,Mexican,Savory garlic mushroom pasta.,"nutritional yeast, chickpeas, cumin, frozen peas",4,synthetic
+13,Tomato Basil Soup,19,Vegan,Indian,Classic creamy tomato basil soup.,"apple, sweet potato, pasta, zucchini",4,synthetic
+14,Rice and Beans,17,Vegan,Fusion,Simple Latin-inspired rice and black beans.,"chili powder, black beans, oregano, frozen peas, broccoli, lentils, garlic, lime, banana, cumin",10,synthetic
+15,Veggie Wrap,14,Vegan,Mediterranean,Tortilla wrap stuffed with hummus and fresh veggies.,"peanut butter, tomato, bread, canned tomatoes, olive oil",5,synthetic
+16,Spiced Lentil Dal,30,Vegan,Mediterranean,Traditional Indian dal with turmeric and cumin.,"vegetable broth, zucchini, oats, almond butter, rice, basil",6,synthetic
+17,Corn and Bean Salad,5,Vegan,Fusion,No-cook protein salad with lime dressing.,"tomato, almond milk, thyme, pasta, cumin, black pepper, oats, lime, rice, garlic",10,synthetic
+18,Garlic Bread,7,Vegan,Italian,Toasted bread with olive oil and garlic.,"oats, soy milk, olive oil, turmeric, banana, oregano, tomato",7,synthetic
+19,Stuffed Bell Peppers,39,Vegan,Indian,Bell peppers stuffed with rice and chickpeas.,"quinoa, almond milk, cumin, broccoli, almond butter, avocado, tofu, black beans, celery, lemon juice",10,synthetic
+20,Mango Smoothie Bowl,5,Vegan,Mediterranean,Blended mango topped with granola and fruit.,"paprika, almond milk, lime, kidney beans",4,synthetic
+21,Lentil Soup #2,21,Vegan,American,"A hearty, warming soup made from pantry staples.","apple, onion, thyme, kidney beans, canned tomatoes, turmeric, carrot",7,synthetic
+22,Black Bean Tacos #2,11,Vegan,Fusion,Quick crispy tacos packed with protein.,"nutritional yeast, carrot, cilantro, avocado, soy milk, frozen peas, oats, banana, vegetable broth",9,synthetic
+23,Chickpea Curry #2,28,Vegan,Indian,Creamy coconut chickpea curry over rice.,"black pepper, carrot, vegetable broth, rice, lemon juice, coconut milk, bread",7,synthetic
+24,Pasta Primavera #2,17,Vegan,Fusion,Light pasta loaded with fresh vegetables.,"peanut butter, cumin, lime, black pepper",4,synthetic
+25,Tofu Stir Fry #2,23,Vegan,American,High-protein tofu stir fried with soy sauce and veggies.,"vegetable broth, garlic, oats, mushrooms, tomato, lentils, chickpeas, onion, coconut milk, cilantro",10,synthetic
+26,Avocado Toast #2,5,Vegan,Mexican,Quick nutritious toast with sliced avocado.,"carrot, lime, corn, thyme, coconut milk, lemon juice, vegetable broth",7,synthetic
+27,Quinoa Bowl #2,26,Vegan,Mexican,Protein-packed quinoa with roasted vegetables.,"pasta, garlic, salt, coconut milk, black pepper, tofu, broccoli",7,synthetic
+28,Veggie Fried Rice #2,23,Vegan,Mexican,Classic fried rice made entirely vegan.,"salt, soy milk, tomato, nutritional yeast, lime, turmeric, frozen peas",7,synthetic
+29,Peanut Noodles #2,10,Vegan,Mediterranean,Cold sesame peanut noodles — no cooking required.,"lentils, blueberries, avocado, salt, vegetable broth, lemon juice, carrot, cilantro, oregano, celery",10,synthetic
+30,Sweet Potato Curry #2,35,Vegan,Mexican,Coconut milk sweet potato curry over rice.,"blueberries, paprika, carrot, cilantro, garlic, sweet potato, basil, apple, thyme, nutritional yeast",10,synthetic
+31,Oatmeal Bowl #2,10,Vegan,American,Hearty oats topped with banana and peanut butter.,"salt, kidney beans, cilantro, corn, cumin, black pepper, basil, oregano",8,synthetic
+32,Mushroom Pasta #2,24,Vegan,American,Savory garlic mushroom pasta.,"kidney beans, black beans, rice, chickpeas, avocado",5,synthetic
+33,Tomato Basil Soup #2,21,Vegan,American,Classic creamy tomato basil soup.,"canned tomatoes, kidney beans, zucchini, carrot, salt",5,synthetic
+34,Rice and Beans #2,19,Vegan,Fusion,Simple Latin-inspired rice and black beans.,"peanut butter, mushrooms, almond milk, bread, nutritional yeast",5,synthetic
+35,Veggie Wrap #2,11,Vegan,Italian,Tortilla wrap stuffed with hummus and fresh veggies.,"turmeric, broccoli, nutritional yeast, bell pepper, bread, corn, quinoa, blueberries",8,synthetic
+36,Spiced Lentil Dal #2,25,Vegan,Mediterranean,Traditional Indian dal with turmeric and cumin.,"corn, soy milk, paprika, celery, chili powder",5,synthetic
+37,Corn and Bean Salad #2,5,Vegan,Mexican,No-cook protein salad with lime dressing.,"blueberries, spinach, sweet potato, mushrooms, rice",5,synthetic
+38,Garlic Bread #2,12,Vegan,Indian,Toasted bread with olive oil and garlic.,"banana, apple, chickpeas, mushrooms, lentils, bell pepper, pasta, almond butter, blueberries",9,synthetic
+39,Stuffed Bell Peppers #2,40,Vegan,Italian,Bell peppers stuffed with rice and chickpeas.,"olive oil, lime, basil, nutritional yeast, tomato",5,synthetic
+40,Mango Smoothie Bowl #2,5,Vegan,Indian,Blended mango topped with granola and fruit.,"zucchini, soy milk, blueberries, apple, corn, lime, paprika, almond milk, tofu",9,synthetic
+41,Lentil Soup #3,24,Vegan,Fusion,"A hearty, warming soup made from pantry staples.","apple, basil, lime, canned tomatoes, nutritional yeast, spinach, oats, blueberries, almond butter",9,synthetic
+42,Black Bean Tacos #3,12,Vegan,Mediterranean,Quick crispy tacos packed with protein.,"lemon juice, kidney beans, black beans, rice, almond butter, lentils, nutritional yeast",7,synthetic
+43,Chickpea Curry #3,30,Vegan,Mexican,Creamy coconut chickpea curry over rice.,"avocado, quinoa, garlic, soy milk, carrot, black beans",6,synthetic
+44,Pasta Primavera #3,24,Vegan,Mediterranean,Light pasta loaded with fresh vegetables.,"rice, broccoli, corn, sweet potato, spinach, soy milk, olive oil, mushrooms, bread",9,synthetic
+45,Tofu Stir Fry #3,18,Vegan,American,High-protein tofu stir fried with soy sauce and veggies.,"quinoa, lime, coconut milk, canned tomatoes, oats, paprika, garlic",7,synthetic
+46,Avocado Toast #3,5,Vegan,Asian,Quick nutritious toast with sliced avocado.,"coconut milk, avocado, lemon juice, nutritional yeast, olive oil, paprika",6,synthetic
+47,Quinoa Bowl #3,29,Vegan,Asian,Protein-packed quinoa with roasted vegetables.,"lime, lentils, nutritional yeast, cilantro, pasta",5,synthetic
+48,Veggie Fried Rice #3,19,Vegan,Italian,Classic fried rice made entirely vegan.,"broccoli, chili powder, coconut milk, black pepper, corn, soy milk, bell pepper, zucchini",8,synthetic
+49,Peanut Noodles #3,16,Vegan,Mexican,Cold sesame peanut noodles — no cooking required.,"bell pepper, lime, black pepper, nutritional yeast, chili powder, canned tomatoes, mushrooms, oregano",8,synthetic
+50,Sweet Potato Curry #3,38,Vegan,Italian,Coconut milk sweet potato curry over rice.,"turmeric, blueberries, bell pepper, salt, chili powder, canned tomatoes, cilantro, frozen peas",8,synthetic
+51,Oatmeal Bowl #3,15,Vegan,Italian,Hearty oats topped with banana and peanut butter.,"paprika, broccoli, salt, cumin, lime, garlic",6,synthetic
+52,Mushroom Pasta #3,24,Vegan,Indian,Savory garlic mushroom pasta.,"lemon juice, tofu, black beans, frozen peas, mushrooms, cumin, onion, salt",8,synthetic
+53,Tomato Basil Soup #3,22,Vegan,Italian,Classic creamy tomato basil soup.,"lime, oats, sweet potato, mushrooms, canned tomatoes",5,synthetic
+54,Rice and Beans #3,23,Vegan,Mexican,Simple Latin-inspired rice and black beans.,"lime, pasta, thyme, basil, turmeric, apple, quinoa, peanut butter",8,synthetic
+55,Veggie Wrap #3,6,Vegan,American,Tortilla wrap stuffed with hummus and fresh veggies.,"kidney beans, nutritional yeast, soy sauce, cilantro, lemon juice, black pepper",6,synthetic
+56,Spiced Lentil Dal #3,34,Vegan,Asian,Traditional Indian dal with turmeric and cumin.,"soy sauce, quinoa, tomato, corn, celery, black pepper, garlic, coconut milk, kidney beans",9,synthetic
+57,Corn and Bean Salad #3,13,Vegan,Mexican,No-cook protein salad with lime dressing.,"zucchini, tomato, black beans, chickpeas, corn, apple, tofu, paprika, celery, nutritional yeast",10,synthetic
+58,Garlic Bread #3,15,Vegan,Indian,Toasted bread with olive oil and garlic.,"black beans, rice, vegetable broth, lentils, soy sauce, avocado, nutritional yeast, garlic",8,synthetic
+59,Stuffed Bell Peppers #3,40,Vegan,Fusion,Bell peppers stuffed with rice and chickpeas.,"cilantro, bread, thyme, rice, tomato, tofu",6,synthetic
+60,Mango Smoothie Bowl #3,8,Vegan,Fusion,Blended mango topped with granola and fruit.,"rice, mushrooms, coconut milk, corn, olive oil, chili powder, cilantro",7,synthetic
+61,Lentil Soup #4,30,Vegan,Italian,"A hearty, warming soup made from pantry staples.","soy sauce, sweet potato, mushrooms, frozen peas, black beans, garlic",6,synthetic
+62,Black Bean Tacos #4,16,Vegan,Italian,Quick crispy tacos packed with protein.,"bell pepper, carrot, apple, garlic, black beans, chili powder, tomato, spinach",8,synthetic
+63,Chickpea Curry #4,26,Vegan,American,Creamy coconut chickpea curry over rice.,"turmeric, olive oil, oats, peanut butter, salt, onion, nutritional yeast",7,synthetic
+64,Pasta Primavera #4,24,Vegan,Indian,Light pasta loaded with fresh vegetables.,"salt, blueberries, broccoli, quinoa, soy milk, onion, tofu",7,synthetic
+65,Tofu Stir Fry #4,24,Vegan,Mexican,High-protein tofu stir fried with soy sauce and veggies.,"peanut butter, tofu, basil, lemon juice, rice",5,synthetic
+66,Avocado Toast #4,5,Vegan,Fusion,Quick nutritious toast with sliced avocado.,"carrot, black pepper, canned tomatoes, chickpeas",4,synthetic
+67,Quinoa Bowl #4,21,Vegan,Asian,Protein-packed quinoa with roasted vegetables.,"lime, canned tomatoes, almond milk, celery, corn, soy sauce, lentils",7,synthetic
+68,Veggie Fried Rice #4,20,Vegan,Mexican,Classic fried rice made entirely vegan.,"lentils, chili powder, basil, spinach",4,synthetic
+69,Peanut Noodles #4,16,Vegan,Italian,Cold sesame peanut noodles — no cooking required.,"black pepper, almond butter, salt, corn",4,synthetic
+70,Sweet Potato Curry #4,31,Vegan,Indian,Coconut milk sweet potato curry over rice.,"cilantro, oats, lemon juice, black pepper, black beans, blueberries, tomato, olive oil",8,synthetic
+71,Cheese Quesadilla,5,Vegetarian,Fusion,Golden crispy tortilla with melted cheddar.,"black pepper, soy milk, avocado, chili powder, bread, spinach, soy sauce, cheese",8,synthetic
+72,Veggie Omelette,13,Vegetarian,Asian,Fluffy omelette packed with bell pepper and spinach.,"tomato, corn, pasta, soy sauce, cumin, lime, cheese, oregano, yogurt, carrot",10,synthetic
+73,Mac and Cheese,21,Vegetarian,Indian,Classic creamy macaroni and cheese.,"blueberries, mozzarella, broccoli, sweet potato, soy sauce, bell pepper, onion",7,synthetic
+74,Caprese Salad,7,Vegetarian,Indian,"Fresh mozzarella, tomato and basil with olive oil.","almond butter, chickpeas, parmesan, frozen peas, lentils, celery",6,synthetic
+75,Egg Fried Rice,18,Vegetarian,Italian,Quick fried rice with scrambled egg.,"blueberries, bell pepper, quinoa, peanut butter, onion, celery, carrot, honey",8,synthetic
+76,Pancakes,19,Vegetarian,Indian,Fluffy buttermilk pancakes.,"soy milk, bread, banana, cumin",4,synthetic
+77,Greek Yogurt Parfait,5,Vegetarian,Mexican,"Layered yogurt, granola and fresh berries.","blueberries, mozzarella, almond butter, cheddar, milk, bread, banana, celery, peanut butter",9,synthetic
+78,Spinach and Feta Omelette,15,Vegetarian,Mexican,Greek-inspired fluffy omelette.,"blueberries, black pepper, bread, soy sauce, frozen peas, paprika, canned tomatoes, cilantro, olive oil",9,synthetic
+79,Margherita Pizza,15,Vegetarian,Mexican,Simple pizza with tomato sauce and mozzarella.,"mozzarella, tomato, almond milk, soy sauce, cumin, kidney beans, vegetable broth",7,synthetic
+80,Scrambled Eggs and Toast,8,Vegetarian,Fusion,Classic breakfast scramble with buttered toast.,"blueberries, soy milk, avocado, corn",4,synthetic
+81,Baked Mac and Cheese,30,Vegetarian,Asian,Oven-baked mac with golden breadcrumb topping.,"mushrooms, broccoli, cheddar, chickpeas, rice, kidney beans",6,synthetic
+82,Cheesy Vegetable Soup,31,Vegetarian,Mexican,Thick soup with cheddar and vegetables.,"black beans, tomato, almond milk, chickpeas, coconut milk, butter",6,synthetic
+83,French Toast,6,Vegetarian,Fusion,Egg-soaked bread pan fried with cinnamon.,"mozzarella, chili powder, avocado, lemon juice, corn, chickpeas, celery, parmesan",8,synthetic
+84,Pasta Alfredo,20,Vegetarian,Mexican,Fettuccine in a rich parmesan cream sauce.,"tomato, almond butter, banana, soy sauce, cumin, bell pepper, kidney beans, tofu",8,synthetic
+85,Caprese Sandwich,11,Vegetarian,Italian,"Fresh mozzarella, tomato and basil on ciabatta.","black pepper, broccoli, almond milk, soy sauce, cumin, vegetable broth, lentils, carrot, honey",9,synthetic
+86,Yogurt Smoothie,7,Vegetarian,Mexican,Blended yogurt with banana and honey.,"chili powder, almond milk, lemon juice, sour cream, bread, yogurt, parmesan, quinoa, vegetable broth, kidney beans",10,synthetic
+87,Potato and Egg Scramble,18,Vegetarian,Italian,Hearty potato hash with scrambled egg.,"mozzarella, black beans, tomato, avocado, rice, frozen peas, vegetable broth",7,synthetic
+88,Cheese Stuffed Mushrooms,28,Vegetarian,American,Baked mushrooms filled with cream cheese.,"broccoli, milk, bread, parmesan, frozen peas, bell pepper",6,synthetic
+89,Ricotta Toast,9,Vegetarian,Italian,Creamy ricotta on toasted bread with honey.,"blueberries, corn, banana, paprika, carrot, canned tomatoes",6,synthetic
+90,Vegetable Frittata,20,Vegetarian,Indian,Oven-baked Italian egg frittata.,"heavy cream, black beans, chili powder, lemon juice, corn, bread, soy sauce, lime, bell pepper, zucchini",10,synthetic
+91,Cheese Quesadilla #2,9,Vegetarian,Italian,Golden crispy tortilla with melted cheddar.,"mozzarella, almond milk, spinach, soy sauce, peanut butter, garlic, onion, zucchini, coconut milk, carrot",10,synthetic
+92,Veggie Omelette #2,12,Vegetarian,Italian,Fluffy omelette packed with bell pepper and spinach.,"black beans, corn, banana, soy sauce, parmesan",5,synthetic
+93,Mac and Cheese #2,15,Vegetarian,Asian,Classic creamy macaroni and cheese.,"almond milk, avocado, apple, nutritional yeast, paprika, basil",6,synthetic
+94,Caprese Salad #2,9,Vegetarian,Asian,"Fresh mozzarella, tomato and basil with olive oil.","soy milk, almond butter, milk, cheddar, bread, banana, parmesan, garlic",8,synthetic
+95,Egg Fried Rice #2,18,Vegetarian,Italian,Quick fried rice with scrambled egg.,"black pepper, almond milk, cheddar, milk, chickpeas, garlic, kidney beans, lentils",8,synthetic
+96,Pancakes #2,16,Vegetarian,Mediterranean,Fluffy buttermilk pancakes.,"tomato, chili powder, soy sauce, lime, cumin, yogurt, zucchini",7,synthetic
+97,Greek Yogurt Parfait #2,5,Vegetarian,Indian,"Layered yogurt, granola and fresh berries.","mushrooms, broccoli, almond butter, soy sauce, bell pepper, quinoa, cheese, paprika",8,synthetic
+98,Spinach and Feta Omelette #2,13,Vegetarian,Mexican,Greek-inspired fluffy omelette.,"almond milk, milk, chickpeas, apple, frozen peas, rice, cheese, oregano",8,synthetic
+99,Margherita Pizza #2,15,Vegetarian,Indian,Simple pizza with tomato sauce and mozzarella.,"mushrooms, broccoli, almond milk, lemon juice, butter, lime, quinoa, oats, celery",9,synthetic
+100,Scrambled Eggs and Toast #2,13,Vegetarian,Mexican,Classic breakfast scramble with buttered toast.,"apple, soy sauce, yogurt, oats",4,synthetic
+101,Baked Mac and Cheese #2,34,Vegetarian,Mediterranean,Oven-baked mac with golden breadcrumb topping.,"blueberries, soy milk, milk, pasta, banana, apple, frozen peas, bell pepper, garlic, kidney beans",10,synthetic
+102,Cheesy Vegetable Soup #2,32,Vegetarian,American,Thick soup with cheddar and vegetables.,"chili powder, avocado, bread, pasta, banana, rice, vegetable broth, sweet potato",8,synthetic
+103,French Toast #2,10,Vegetarian,Indian,Egg-soaked bread pan fried with cinnamon.,"lemon juice, almond milk, chickpeas, apple, garlic, coconut milk",6,synthetic
+104,Pasta Alfredo #2,25,Vegetarian,Mexican,Fettuccine in a rich parmesan cream sauce.,"mozzarella, avocado, soy sauce, sour cream",4,synthetic
+105,Caprese Sandwich #2,6,Vegetarian,Fusion,"Fresh mozzarella, tomato and basil on ciabatta.","blueberries, tomato, chili powder, soy milk, cheddar, bread, cumin, lentils, salt",9,synthetic
+106,Yogurt Smoothie #2,5,Vegetarian,American,Blended yogurt with banana and honey.,"almond butter, bread, quinoa, cheese, oats, celery",6,synthetic
+107,Potato and Egg Scramble #2,12,Vegetarian,Indian,Hearty potato hash with scrambled egg.,"egg, broccoli, almond milk, lemon juice, chickpeas, frozen peas, lime, cheese, kidney beans",9,synthetic
+108,Cheese Stuffed Mushrooms #2,26,Vegetarian,Asian,Baked mushrooms filled with cream cheese.,"basil, banana, frozen peas, coconut milk, paprika, carrot, egg",7,synthetic
+109,Ricotta Toast #2,7,Vegetarian,Italian,Creamy ricotta on toasted bread with honey.,"mushrooms, corn, rice, kidney beans, carrot",5,synthetic
+110,Vegetable Frittata #2,30,Vegetarian,American,Oven-baked Italian egg frittata.,"bread, chickpeas, nutritional yeast, bell pepper, garlic, vegetable broth, oregano",7,synthetic
+111,Cheese Quesadilla #3,8,Vegetarian,Indian,Golden crispy tortilla with melted cheddar.,"black beans, milk, spinach, carrot, rice, oats, celery",7,synthetic
+112,Veggie Omelette #3,12,Vegetarian,Fusion,Fluffy omelette packed with bell pepper and spinach.,"broccoli, salt, lime, nutritional yeast, quinoa, coconut milk, cilantro",7,synthetic
+113,Mac and Cheese #3,20,Vegetarian,Indian,Classic creamy macaroni and cheese.,"thyme, black beans, parmesan, nutritional yeast, vegetable broth, celery",6,synthetic
+114,Caprese Salad #3,5,Vegetarian,Mediterranean,"Fresh mozzarella, tomato and basil with olive oil.","black pepper, almond butter, pasta, lime, onion, salt, coconut milk, honey, ricotta",9,synthetic
+115,Egg Fried Rice #3,10,Vegetarian,Indian,Quick fried rice with scrambled egg.,"thyme, almond butter, almond milk, bread, nutritional yeast, quinoa, garlic, cheese, onion, zucchini",10,synthetic
+116,Pancakes #3,13,Vegetarian,Mediterranean,Fluffy buttermilk pancakes.,"chickpeas, vegetable broth, oregano, turmeric",4,synthetic
+117,Greek Yogurt Parfait #3,9,Vegetarian,Mediterranean,"Layered yogurt, granola and fresh berries.","blueberries, avocado, cheddar, chickpeas, apple, soy sauce, lime, kidney beans, carrot",9,synthetic
+118,Spinach and Feta Omelette #3,11,Vegetarian,Fusion,Greek-inspired fluffy omelette.,"mushrooms, mozzarella, black beans, broccoli, milk, frozen peas",6,synthetic
+119,Margherita Pizza #3,19,Vegetarian,Mexican,Simple pizza with tomato sauce and mozzarella.,"mushrooms, black beans, soy milk, milk, bread, rice, salt",7,synthetic
+120,Scrambled Eggs and Toast #3,13,Vegetarian,Fusion,Classic breakfast scramble with buttered toast.,"lemon juice, milk, apple, frozen peas",4,synthetic
+121,Baked Mac and Cheese #3,36,Vegetarian,Fusion,Oven-baked mac with golden breadcrumb topping.,"blueberries, mushrooms, tomato, cheddar, corn, bell pepper, quinoa, oregano, lentils, onion",10,synthetic
+122,Cheesy Vegetable Soup #3,35,Vegetarian,Fusion,Thick soup with cheddar and vegetables.,"thyme, pasta, parmesan, lime, yogurt",5,synthetic
+123,French Toast #3,13,Vegetarian,Italian,Egg-soaked bread pan fried with cinnamon.,"thyme, chili powder, almond butter, lemon juice, cumin, frozen peas, oats, lentils, kidney beans, zucchini",10,synthetic
+124,Pasta Alfredo #3,27,Vegetarian,Italian,Fettuccine in a rich parmesan cream sauce.,"tomato, soy milk, avocado, nutritional yeast, bell pepper, peanut butter, coconut milk, turmeric",8,synthetic
+125,Caprese Sandwich #3,8,Vegetarian,Mexican,"Fresh mozzarella, tomato and basil on ciabatta.","egg, blueberries, broccoli, almond milk, chickpeas, bell pepper, vegetable broth, celery",8,synthetic
+126,Yogurt Smoothie #3,6,Vegetarian,Mediterranean,Blended yogurt with banana and honey.,"thyme, almond butter, lemon juice, apple, frozen peas, parmesan",6,synthetic
+127,Potato and Egg Scramble #3,17,Vegetarian,Mediterranean,Hearty potato hash with scrambled egg.,"broccoli, soy milk, pasta, banana, apple, cumin",6,synthetic
+128,Cheese Stuffed Mushrooms #3,20,Vegetarian,Fusion,Baked mushrooms filled with cream cheese.,"mozzarella, almond milk, almond butter, banana, soy sauce, peanut butter, lime, garlic, cheese",9,synthetic
+129,Ricotta Toast #3,10,Vegetarian,Asian,Creamy ricotta on toasted bread with honey.,"chili powder, lemon juice, almond milk, yogurt, nutritional yeast, lime, celery",7,synthetic
+130,Vegetable Frittata #3,30,Vegetarian,American,Oven-baked Italian egg frittata.,"tomato, lemon juice, bread, celery, garlic, oats, kidney beans, onion, zucchini, butter",10,synthetic
+131,Cheese Quesadilla #4,7,Vegetarian,Asian,Golden crispy tortilla with melted cheddar.,"black beans, tomato, celery, basil",4,synthetic
+132,Veggie Omelette #4,14,Vegetarian,Mediterranean,Fluffy omelette packed with bell pepper and spinach.,"soy milk, yogurt, garlic, kidney beans",4,synthetic
+133,Mac and Cheese #4,22,Vegetarian,Asian,Classic creamy macaroni and cheese.,"black pepper, broccoli, chili powder, almond milk, avocado, corn, frozen peas, garlic, tofu",9,synthetic
+134,Caprese Salad #4,6,Vegetarian,Fusion,"Fresh mozzarella, tomato and basil with olive oil.","mozzarella, tomato, chili powder, almond butter, milk, pasta, bread, soy sauce, lime, carrot",10,synthetic
+135,Egg Fried Rice #4,16,Vegetarian,Indian,Quick fried rice with scrambled egg.,"black beans, avocado, spinach, bell pepper, quinoa, cumin, oregano, cheese, sweet potato",9,synthetic
+136,Pancakes #4,11,Vegetarian,Italian,Fluffy buttermilk pancakes.,"blueberries, avocado, almond milk, milk, banana, parmesan, oregano",7,synthetic
+137,Greek Yogurt Parfait #4,8,Vegetarian,American,"Layered yogurt, granola and fresh berries.","mozzarella, lemon juice, corn, chickpeas, peanut butter, lime, honey, lentils",8,synthetic
+138,Spinach and Feta Omelette #4,15,Vegetarian,Italian,Greek-inspired fluffy omelette.,"blueberries, cheddar, almond milk, frozen peas",4,synthetic
+139,Margherita Pizza #4,23,Vegetarian,Italian,Simple pizza with tomato sauce and mozzarella.,"bread, chickpeas, apple, peanut butter, sour cream",5,synthetic
+140,Scrambled Eggs and Toast #4,7,Vegetarian,Italian,Classic breakfast scramble with buttered toast.,"oregano, paprika, canned tomatoes, egg",4,synthetic
+141,Chicken Fried Rice,17,Non-Vegetarian,Fusion,Classic fried rice with tender chicken pieces.,"broccoli, chili powder, almond milk, almond butter, anchovies, chicken thighs, salt, apple, frozen peas, zucchini",10,synthetic
+142,Tuna Pasta,17,Non-Vegetarian,American,Quick pasta with canned tuna and olive oil.,"blueberries, broccoli, milk, bread, butter, soy sauce, frozen peas, nutritional yeast, beef broth",9,synthetic
+143,Chicken Quesadilla,13,Non-Vegetarian,Mediterranean,Crispy tortilla filled with chicken and cheese.,"heavy cream, tomato, almond milk, pork chop, cumin, rice",6,synthetic
+144,Ground Beef Tacos,25,Non-Vegetarian,Asian,Seasoned ground beef in crispy taco shells.,"mushrooms, broccoli, chili powder, ham, rice, bell pepper, frozen peas, pepperoni, butter, canned tomatoes",10,synthetic
+145,Shrimp Stir Fry,16,Non-Vegetarian,American,Quick shrimp and veggie stir fry with soy sauce.,"blueberries, pasta, chicken breast, tuna (canned)",4,synthetic
+146,BLT Sandwich,5,Non-Vegetarian,Mediterranean,"Classic bacon, lettuce and tomato sandwich.","black beans, deli turkey, vegetable broth, oregano, onion",5,synthetic
+147,Chicken Noodle Soup,35,Non-Vegetarian,Mexican,Comforting soup with chicken and egg noodles.,"tomato, broccoli, almond butter, almond milk, chicken breast, cumin, quinoa, onion, salt, coconut milk",10,synthetic
+148,Turkey Wrap,9,Non-Vegetarian,Italian,Deli turkey with cheese and veggies in a tortilla.,"tomato, soy milk, almond milk, cheddar, corn, pasta, chickpeas, yogurt, beef broth, chicken broth",10,synthetic
+149,Bacon and Egg Sandwich,5,Non-Vegetarian,Italian,Classic bacon egg and cheese on toast.,"milk, carrot, apple, rice, cumin, deli turkey, kidney beans, oregano, cheese",9,synthetic
+150,Tuna Salad,15,Non-Vegetarian,Mediterranean,Creamy tuna salad with celery and onion.,"black beans, broccoli, milk, anchovies, corn, rice, quinoa, honey, lentils",9,synthetic
+151,Ground Turkey Bowl,20,Non-Vegetarian,Indian,Seasoned turkey over rice with hot sauce.,"soy milk, avocado, anchovies, pasta, peanut butter, zucchini",6,synthetic
+152,Chicken Caesar Salad,18,Non-Vegetarian,American,Grilled chicken over romaine with Caesar dressing.,"banana, peanut butter, quinoa, frozen peas, cheese, onion, salt",7,synthetic
+153,Salmon and Rice,28,Non-Vegetarian,Fusion,Pan-seared salmon fillet served over steamed rice.,"avocado, yogurt, nutritional yeast, frozen peas, garlic",5,synthetic
+154,Pepperoni Pizza,24,Non-Vegetarian,Indian,Classic pizza loaded with mozzarella and pepperoni.,"mozzarella, shrimp, pasta, carrot, pork chop, rice, quinoa, garlic, oregano",9,synthetic
+155,Chicken Soup,34,Non-Vegetarian,Mediterranean,Simple homemade chicken and vegetable soup.,"black pepper, broccoli, apple, soy sauce, lime, oregano, oats, kidney beans",8,synthetic
+156,Beef and Broccoli,23,Non-Vegetarian,Fusion,Takeout-style beef and broccoli stir fry.,"broccoli, tomato, chicken thighs, spinach, celery, bacon, lime, nutritional yeast, cheese, onion",10,synthetic
+157,Ham and Cheese Omelette,8,Non-Vegetarian,Mexican,Fluffy omelette with ham and melted cheese.,"corn, salt, nutritional yeast, pepperoni",4,synthetic
+158,Shrimp Tacos,19,Non-Vegetarian,Fusion,Spiced shrimp tacos with lime slaw.,"black beans, shrimp, soy sauce, oregano, lentils, ground beef, celery, ricotta",8,synthetic
+159,Chicken Pasta,20,Non-Vegetarian,Mexican,Pasta tossed with grilled chicken and olive oil.,"black beans, cheddar, chicken breast, bell pepper",4,synthetic
+160,Anchovy Caesar Salad,12,Non-Vegetarian,Italian,Bold Caesar salad with classic anchovy dressing.,"broccoli, almond butter, bread, spinach, bacon, apple, bell pepper, quinoa, garlic, parmesan",10,synthetic
+161,Chicken Fried Rice #2,21,Non-Vegetarian,Asian,Classic fried rice with tender chicken pieces.,"thyme, shrimp, soy milk, spinach, bacon, soy sauce, coconut milk, paprika",8,synthetic
+162,Tuna Pasta #2,20,Non-Vegetarian,Italian,Quick pasta with canned tuna and olive oil.,"blueberries, mushrooms, bread, banana, beef broth",5,synthetic
+163,Chicken Quesadilla #2,14,Non-Vegetarian,Indian,Crispy tortilla filled with chicken and cheese.,"thyme, black beans, pasta, apple, cumin, rice, tuna (canned), celery, paprika, honey",10,synthetic
+164,Ground Beef Tacos #2,21,Non-Vegetarian,Mexican,Seasoned ground beef in crispy taco shells.,"black beans, chicken thighs, almond milk, pasta, pork chop, lime",6,synthetic
+165,Shrimp Stir Fry #2,16,Non-Vegetarian,Italian,Quick shrimp and veggie stir fry with soy sauce.,"mushrooms, shrimp, pasta, apple, lime, rice, celery, turmeric, sweet potato, tofu",10,synthetic
+166,BLT Sandwich #2,10,Non-Vegetarian,Mediterranean,"Classic bacon, lettuce and tomato sandwich.","black pepper, chili powder, lemon juice, avocado, corn, pasta, chickpeas, pork chop, bell pepper, kidney beans",10,synthetic
+167,Chicken Noodle Soup #2,27,Non-Vegetarian,Italian,Comforting soup with chicken and egg noodles.,"black beans, milk, apple, cumin, deli turkey",5,synthetic
+168,Turkey Wrap #2,7,Non-Vegetarian,Indian,Deli turkey with cheese and veggies in a tortilla.,"soy milk, apple, nutritional yeast, turkey, coconut milk, carrot",6,synthetic
+169,Bacon and Egg Sandwich #2,15,Non-Vegetarian,Fusion,Classic bacon egg and cheese on toast.,"chili powder, deli turkey, garlic, tuna (canned)",4,synthetic
+170,Tuna Salad #2,10,Non-Vegetarian,Fusion,Creamy tuna salad with celery and onion.,"mozzarella, tomato, almond butter, almond milk, kidney beans, celery",6,synthetic
+171,Ground Turkey Bowl #2,29,Non-Vegetarian,Fusion,Seasoned turkey over rice with hot sauce.,"mushrooms, cheddar, banana, peanut butter, quinoa",5,synthetic
+172,Chicken Caesar Salad #2,18,Non-Vegetarian,Mediterranean,Grilled chicken over romaine with Caesar dressing.,"black pepper, tomato, sour cream, chicken breast, quinoa, lentils, onion, salt, carrot",9,synthetic
+173,Salmon and Rice #2,26,Non-Vegetarian,American,Pan-seared salmon fillet served over steamed rice.,"thyme, corn, turkey, salt",4,synthetic
+174,Pepperoni Pizza #2,25,Non-Vegetarian,Asian,Classic pizza loaded with mozzarella and pepperoni.,"broccoli, chicken thighs, almond milk, pasta, salt, spinach, nutritional yeast, frozen peas, cheese",9,synthetic
+175,Chicken Soup #2,38,Non-Vegetarian,Mediterranean,Simple homemade chicken and vegetable soup.,"blueberries, chicken thighs, almond milk, avocado, corn, rice, quinoa, oregano",8,synthetic
+176,Beef and Broccoli #2,20,Non-Vegetarian,American,Takeout-style beef and broccoli stir fry.,"blueberries, black beans, broccoli, shrimp, almond milk, milk, corn, beef broth, vegetable broth, lentils",10,synthetic
+177,Ham and Cheese Omelette #2,6,Non-Vegetarian,American,Fluffy omelette with ham and melted cheese.,"mushrooms, chicken thighs, shrimp, corn, chickpeas, apple",6,synthetic
+178,Shrimp Tacos #2,20,Non-Vegetarian,Indian,Spiced shrimp tacos with lime slaw.,"soy milk, corn, parmesan, quinoa, lentils, onion",6,synthetic
+179,Chicken Pasta #2,29,Non-Vegetarian,Mexican,Pasta tossed with grilled chicken and olive oil.,"blueberries, milk, bread, pasta, chicken breast, chickpeas, rice, nutritional yeast, lentils",9,synthetic
+180,Anchovy Caesar Salad #2,5,Non-Vegetarian,American,Bold Caesar salad with classic anchovy dressing.,"blueberries, black pepper, chicken thighs, lemon juice, corn, butter, chickpeas, pork chop, celery",9,synthetic
+181,Chicken Fried Rice #3,16,Non-Vegetarian,Mediterranean,Classic fried rice with tender chicken pieces.,"bread, spinach, soy sauce, frozen peas, ground turkey, ground beef, zucchini",7,synthetic
+182,Tuna Pasta #3,20,Non-Vegetarian,Indian,Quick pasta with canned tuna and olive oil.,"shrimp, corn, frozen peas, bell pepper, garlic, beef broth, celery",7,synthetic
+183,Chicken Quesadilla #3,14,Non-Vegetarian,Italian,Crispy tortilla filled with chicken and cheese.,"ham, avocado, pasta, apple, cumin, peanut butter, garlic, kidney beans, deli turkey",9,synthetic
+184,Ground Beef Tacos #3,24,Non-Vegetarian,Italian,Seasoned ground beef in crispy taco shells.,"shrimp, avocado, butter, spinach, frozen peas, cumin",6,synthetic
+185,Shrimp Stir Fry #3,20,Non-Vegetarian,Mediterranean,Quick shrimp and veggie stir fry with soy sauce.,"black pepper, lemon juice, chicken breast, deli turkey, lime",5,synthetic
+186,BLT Sandwich #3,10,Non-Vegetarian,Fusion,"Classic bacon, lettuce and tomato sandwich.","ham, lemon juice, cheddar, pasta, cumin",5,synthetic
+187,Chicken Noodle Soup #3,27,Non-Vegetarian,Indian,Comforting soup with chicken and egg noodles.,"black beans, almond butter, avocado, bread, yogurt, vegetable broth, pepperoni",7,synthetic
+188,Turkey Wrap #3,10,Non-Vegetarian,Asian,Deli turkey with cheese and veggies in a tortilla.,"mushrooms, blueberries, black pepper, lentils",4,synthetic
+189,Bacon and Egg Sandwich #3,11,Non-Vegetarian,Italian,Classic bacon egg and cheese on toast.,"almond butter, bread, nutritional yeast, rice, bell pepper, ground turkey",6,synthetic
+190,Tuna Salad #3,5,Non-Vegetarian,Fusion,Creamy tuna salad with celery and onion.,"ham, pasta, bread, bacon, chickpeas, peanut butter, quinoa, frozen peas, kidney beans, celery",10,synthetic
+191,Ground Turkey Bowl #3,26,Non-Vegetarian,Fusion,Seasoned turkey over rice with hot sauce.,"chili powder, deli turkey, nutritional yeast, peanut butter, cumin",5,synthetic
+192,Chicken Caesar Salad #3,20,Non-Vegetarian,Indian,Grilled chicken over romaine with Caesar dressing.,"mushrooms, black pepper, chicken breast, pork chop, soy sauce",5,synthetic
+193,Salmon and Rice #3,30,Non-Vegetarian,Asian,Pan-seared salmon fillet served over steamed rice.,"blueberries, soy milk, spinach, soy sauce, cumin, deli turkey, beef broth, lentils",8,synthetic
+194,Pepperoni Pizza #3,19,Non-Vegetarian,Asian,Classic pizza loaded with mozzarella and pepperoni.,"black beans, lemon juice, lime, oregano, turkey",5,synthetic
+195,Chicken Soup #3,39,Non-Vegetarian,Fusion,Simple homemade chicken and vegetable soup.,"almond milk, corn, apple, vegetable broth, lentils, onion, salt, butter, carrot",9,synthetic
+196,Beef and Broccoli #3,30,Non-Vegetarian,Mexican,Takeout-style beef and broccoli stir fry.,"ham, chili powder, almond butter, lemon juice, bread, peanut butter, cumin, bell pepper, vegetable broth, kidney beans",10,synthetic
+197,Ham and Cheese Omelette #3,13,Non-Vegetarian,Asian,Fluffy omelette with ham and melted cheese.,"soy milk, almond milk, soy sauce, peanut butter, deli turkey, lentils",6,synthetic
+198,Shrimp Tacos #3,16,Non-Vegetarian,Indian,Spiced shrimp tacos with lime slaw.,"soy milk, chickpeas, apple, bell pepper, quinoa, vegetable broth",6,synthetic
+199,Chicken Pasta #3,23,Non-Vegetarian,Indian,Pasta tossed with grilled chicken and olive oil.,"blueberries, nutritional yeast, cumin, peanut butter, turkey, celery, sweet potato",7,synthetic
+200,Anchovy Caesar Salad #3,13,Non-Vegetarian,Mediterranean,Bold Caesar salad with classic anchovy dressing.,"mozzarella, chili powder, lemon juice, anchovies, soy sauce, bell pepper, peanut butter, nutritional yeast, vegetable broth",9,synthetic
+201,Chicken Fried Rice #4,20,Non-Vegetarian,Italian,Classic fried rice with tender chicken pieces.,"tomato, lemon juice, anchovies, quinoa",4,synthetic
+202,Tuna Pasta #4,13,Non-Vegetarian,Indian,Quick pasta with canned tuna and olive oil.,"black pepper, broccoli, chili powder, bread, spinach, lime, quinoa, oregano, tuna (canned)",9,synthetic
+203,Chicken Quesadilla #4,11,Non-Vegetarian,Indian,Crispy tortilla filled with chicken and cheese.,"mushrooms, broccoli, spinach, salmon, cheese, kidney beans, salt, paprika",8,synthetic
+204,Ground Beef Tacos #4,18,Non-Vegetarian,Fusion,Seasoned ground beef in crispy taco shells.,"almond milk, rice, lime, beef broth, ground beef",5,synthetic
+205,Shrimp Stir Fry #4,19,Non-Vegetarian,Fusion,Quick shrimp and veggie stir fry with soy sauce.,"blueberries, black pepper, soy milk, banana, chickpeas, ground beef, coconut milk, honey",8,synthetic
+206,BLT Sandwich #4,6,Non-Vegetarian,Mediterranean,"Classic bacon, lettuce and tomato sandwich.","black pepper, broccoli, chili powder, corn, rice, quinoa, frozen peas, oats, lime, chicken broth",10,synthetic
+207,Chicken Noodle Soup #4,32,Non-Vegetarian,American,Comforting soup with chicken and egg noodles.,"black beans, tomato, soy milk, black pepper, bread, chickpeas, cumin, lime, beef broth, celery",10,synthetic
+208,Turkey Wrap #4,8,Non-Vegetarian,Fusion,Deli turkey with cheese and veggies in a tortilla.,"mushrooms, thyme, pasta, banana, spinach, salmon, peanut butter, parmesan, vegetable broth, turkey",10,synthetic
+209,Bacon and Egg Sandwich #4,14,Non-Vegetarian,American,Classic bacon egg and cheese on toast.,"black beans, chicken thighs, ham, almond butter, corn, pasta, butter, oats, onion",9,synthetic
+210,Tuna Salad #4,5,Non-Vegetarian,Mexican,Creamy tuna salad with celery and onion.,"cheddar, apple, beef broth, zucchini, paprika",5,synthetic
