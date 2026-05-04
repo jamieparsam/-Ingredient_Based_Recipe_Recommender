@@ -1,7 +1,3 @@
-# requirements.txt
-# Recipe Recommendation System — Python dependencies
-# Install with: pip install -r requirements.txt
-
 # Data processing 
 pandas>=2.0.0
 numpy>=1.24.0
@@ -10,7 +6,7 @@ numpy>=1.24.0
 scikit-learn>=1.3.0
 
 # PostgreSQL driver
-psycopg2-binary>=2.9.6    # binary wheel 
+psycopg2-binary>=2.9.6   
 
 # MongoDB driver 
 pymongo>=4.4.0
