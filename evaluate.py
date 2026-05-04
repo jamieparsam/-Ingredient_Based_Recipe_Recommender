@@ -1,7 +1,7 @@
 import sys
 import pandas as pd
 import numpy as np
-from recommender import RecipeRecommender
+from recommender_model import RecipeRecommender
 
 # Simulated student scenarios
 SCENARIOS = [
